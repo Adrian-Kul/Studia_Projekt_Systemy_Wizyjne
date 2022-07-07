@@ -1,0 +1,7 @@
+liczba obiektów:	41
+
+prawid³owe obiekty:	22
+	2:		10
+	8:		12
+
+niedobre:		19
