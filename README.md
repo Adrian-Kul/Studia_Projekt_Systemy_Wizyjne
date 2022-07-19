@@ -33,3 +33,8 @@ z informacją o jego kategorii, kolejnym numerze w całej sekwencji oraz w swoje
 zbiorczy powinien zawierać łączną liczbę przebadanych obiektów, liczbę obiektów w każdej z
 klas (6 „prawidłowych” i 1 „wadliwa”). Dla każdej klasy prawidłowej powinien zawierać także
 średnią powierzchnię obiektu oraz odchylenie standardowe pola powierzchni.
+
+
+ATTENTION: 
+Unpack archive to get "OKNO_X.avi” file and put it in project folder.
+
